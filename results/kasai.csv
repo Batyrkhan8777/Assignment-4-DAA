@@ -1,0 +1,4 @@
+algorithm,input_size,average_ns,character_comparisons,repetitions
+Kasai,1000,99699.80,1990,5
+Kasai,5000,188408.40,9988,5
+Kasai,10000,364175.20,19989,5

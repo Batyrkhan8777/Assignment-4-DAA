@@ -1,0 +1,7 @@
+algorithm,input_size,average_ns,repetitions
+LCS,100,398200.00,5
+Edit distance,100,469816.60,5
+LCS,500,684833.40,5
+Edit distance,500,914308.40,5
+LCS,1000,2559783.40,5
+Edit distance,1000,2787675.00,5
